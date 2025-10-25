@@ -1,0 +1,14 @@
+{
+  "name": "SwapVerse",
+  "description": "SwapVerse is a Base Mini App built with Zara.",
+  "image": "https://dummyimage.com/1200x628/0a0b0d/ffffff.png&text=OG",
+  "external_url": "https://6d4ecbec-09ef-47c7-a4fb-b8981d43b7d7.vercel.app",
+  "properties": {
+    "app": {
+      "name": "SwapVerse",
+      "description": "SwapVerse is a Base Mini App built with Zara.",
+      "url": "https://6d4ecbec-09ef-47c7-a4fb-b8981d43b7d7.vercel.app",
+      "icon": "https://0co.to/images/zara-2.png"
+    }
+  }
+}

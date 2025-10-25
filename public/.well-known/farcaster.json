@@ -7,11 +7,11 @@
   "frame": {
     "version": "next",
     "name": "SwapVerse",
-    "homeUrl": "https://swapverse.app",
+    "homeUrl": "https://app-1d43b7d7-998c.vercel.app",
     "iconUrl": "https://swapverse.app/icon.png",
     "splashImageUrl": "https://swapverse.app/splash.png",
     "splashBackgroundColor": "#0a1929",
-    "webhookUrl": "https://swapverse.app/api/minikit-webhook",
+    "webhookUrl": "https://app-1d43b7d7-998c.vercel.app/api/webhook",
     "subtitle": "Socialized trading & frictionless swaps on Base",
     "description": "Discover trending tokens based on Farcaster sentiment, execute gasless swaps, and compete on leaderboards with the best traders on Base.",
     "screenshotUrls": [
@@ -20,7 +20,14 @@
       "https://swapverse.app/screenshots/leaderboard.png"
     ],
     "primaryCategory": "defi",
-    "tags": ["swap", "trading", "defi", "social", "base", "gasless"],
+    "tags": [
+      "swap",
+      "trading",
+      "defi",
+      "social",
+      "base",
+      "gasless"
+    ],
     "heroImageUrl": "https://swapverse.app/hero.png",
     "tagline": "Trade smarter with your community",
     "ogTitle": "SwapVerse - Socialized Trading on Base",
